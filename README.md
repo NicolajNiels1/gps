@@ -1,6 +1,8 @@
 # GPS
-A repository consisting of wiki-articles about GPS and localization technology and methods.
-This repo is mainly in Norwegian language 🇳🇴
+Welcome to this wiki repository!
+
+Here you'll find wiki articles about GPS and localization technology and methods.
+**NOTE:** The Wiki is in Norwegian 🇳🇴
 
 Want to contribute? Follow [these guidelines](https://github.com/firstcontributions/first-contributions)
 
