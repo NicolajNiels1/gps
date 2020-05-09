@@ -1,29 +1,25 @@
 # Table of contents
 
 * [GPS](README.md)
-* [Basics](basics.md)
-* [Orbits](orbits.md)
 * [Introduction](introduction.md)
-* [Observations](observations.md)
-* [Signals](untitled.md)
 
 ## Basic GPS Concepts
 
-* [Untitled](basic-gps-concepts/untitled.md)
+* [Basics](basic-gps-concepts/basics.md)
 
 ## GPS Satellite Signals
 
-* [Untitled](gps-satellite-signals/untitled.md)
+* [Signals](gps-satellite-signals/signals.md)
 
 ## Observables
 
-* [Untitled](observables/untitled.md)
+* [Observables](observables/observables.md)
 
 ## GPS Satellite Orbits
 
-* [Untitled](gps-satellite-orbits/untitled.md)
+* [Orbits](gps-satellite-orbits/orbits.md)
 
 ## Biases and Errors in GPS
 
-* [Untitled](biases-and-errors-in-gps/untitled.md)
+* [Biases and Errors](biases-and-errors-in-gps/biases-and-errors.md)
 

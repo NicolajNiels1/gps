@@ -1,4 +1,4 @@
-# Observations
+# Observables
 
 ## Grunnleggende prinsipp
 
