@@ -20,6 +20,8 @@ Jorda er i virkeligheten ikke en perfekt sfære. De fleste vet at den er noe sam
 
 Jordas tyngdepotensiale kan uttrykkes som følger
 
+
+
 > **Merk:** Effekten fra jordas flattrykning – representert ved $J\_{20}$ – er omtrent tre ganger så stor som effekten fra de andre koeffisientene. Den er likevel bare $10^{-4}$ så stor som de sfæriske tyngdeeffektene beskrevet over.
 >
 > **Effekt:** 0.005 Gal
